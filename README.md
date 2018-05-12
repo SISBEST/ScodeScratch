@@ -1,2 +1,0 @@
-# ScodeScratch
-For SCode Students.
